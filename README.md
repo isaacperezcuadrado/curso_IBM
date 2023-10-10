@@ -1,2 +1,2 @@
-# curso_IBM
-Tematica tratada para el curso de IBM de herramientas para Data Science 
+# Curso_IBM
+Tematica tratada dentro del curso de IBM de Herramientas para Data Science 
